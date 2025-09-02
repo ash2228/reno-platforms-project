@@ -60,7 +60,7 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/school-management.git
+git clone https://github.com/ash2228/school-management.git
 cd school-management
 Install dependencies
 
@@ -273,15 +273,3 @@ GitHub language count**
 🔝 Back to top
 
 </div>
-📞 Support
-Need help? Here are your options:
-
-📧 Email: your.email@example.com
-
-💬 Discord: Join our community
-
-🐦 Twitter: @yourusername
-
-📖 Docs: Full Documentation
-
-This README was crafted with care to help developers understand and contribute to SchoolHub. Happy coding! 🚀
